@@ -24,7 +24,7 @@
     "jest-regex-util": "^23.3.0",
     "jest-resolve-dependencies": "^23.4.1",
     "jest-runner": "^23.4.1",
-    "jest-runtime": "^23.4.1",
+    "jest-runtime": "globegitter/jest-runtime",
     "jest-snapshot": "^23.4.1",
     "jest-util": "^23.4.0",
     "jest-validate": "^23.4.0",
