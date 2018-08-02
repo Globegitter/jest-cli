@@ -23,7 +23,7 @@
     "jest-message-util": "^23.4.0",
     "jest-regex-util": "^23.3.0",
     "jest-resolve-dependencies": "^23.4.1",
-    "jest-runner": "globegitter/jest-runner ",
+    "jest-runner": "globegitter/jest-runner",
     "jest-runtime": "globegitter/jest-runtime",
     "jest-snapshot": "^23.4.1",
     "jest-util": "^23.4.0",
